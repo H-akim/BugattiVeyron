@@ -1,0 +1,63 @@
+.carousel-item img{
+    max-height: 935px;
+    object-fit: cover;
+}
+main{
+    margin: auto;
+    max-width: 740px;
+}
+.carousel-caption h5{
+    text-transform: capitalize;
+    font-family: cursive;
+    text-shadow: 2px 2px #1900ff;
+    color: black;
+}
+.mb-3{
+    max-width: 740px;
+    margin-top: 20px;
+}
+.img-fluid{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.card{
+    border: 1px solid #1900ff;
+}
+.card-body .card-title{
+    text-transform: capitalize;
+    text-shadow: 1px 1px #1900ff;
+    text-align: center;
+}
+.card-text{
+    text-transform: capitalize;
+}
+.card1{
+    color: black !important;
+    border: none;
+    margin: auto;
+    max-width: 840px;
+}
+.card2{
+    text-align: center;
+    margin-top: 50px;
+    text-transform: capitalize;
+}
+.card2 .card-title{
+    margin-top: 50px;
+}
+.card2 .card-text {
+    width: 50%;
+    margin:30px auto;   
+    text-align: center;
+}
+.card-title{
+    text-transform: capitalize;
+    text-shadow: 1px 1px #1900ff;
+}
+.text-footer{
+    border-top: 2px solid #1900ff;
+    width: 40%;
+    margin: auto;
+    padding: 10px 0px;
+}
